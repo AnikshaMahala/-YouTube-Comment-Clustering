@@ -1,4 +1,4 @@
-# -YouTube-Comment-Clustering
+# YouTube Comment Clustering
 
 ## Project Overview
 
