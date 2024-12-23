@@ -40,7 +40,7 @@ The dataset used in this project contains:
 
   - Dimensionality Reduction:
 
-    - Reduced vectors to a 1D array for clustering.
+    - Reduced vectors to a 1D array (using PCA) for clustering.
 
 3. Clustering
 
