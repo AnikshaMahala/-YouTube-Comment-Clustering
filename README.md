@@ -32,27 +32,27 @@ The dataset used in this project contains:
 
 2. Feature Engineering
 
-  Text to Numerical Conversion:
+  - Text to Numerical Conversion:
 
-  - Used the Word2Vec model from the gensim library to vectorize comments.
+    - Used the Word2Vec model from the gensim library to vectorize comments.
 
-  - Achieved a 100-dimensional vector representation for each comment.
+    - Achieved a 100-dimensional vector representation for each comment.
 
-  Dimensionality Reduction:
+  - Dimensionality Reduction:
 
-  - Reduced vectors to a 1D array for clustering.
+    - Reduced vectors to a 1D array for clustering.
 
 3. Clustering
 
-  K-means Clustering:
+  - K-means Clustering:
 
-  - Performed clustering on the entire dataset.
+    - Performed clustering on the entire dataset.
 
-  - Visualized clusters to identify patterns.
+    - Visualized clusters to identify patterns.
 
-  Hierarchical Clustering:
+  - Hierarchical Clustering:
 
-  - Applied on a sample of 1,000 points for computational feasibility.
+    - Applied on a sample of 1,000 points for computational feasibility.
 
 ## Tools and Technologies
 
